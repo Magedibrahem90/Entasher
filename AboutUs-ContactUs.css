@@ -299,6 +299,11 @@ section#header {
     #Main-Footer .links-container {
         padding-bottom: 0;
     }
+    #Main-nav-bar #nav-bar-container #send-req-btn
+    {
+        margin-bottom:.5rem;
+        width:100%;
+    }
 }
 @media (min-width:1920px) {
     #Main-Footer .links-container,
